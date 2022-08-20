@@ -8,9 +8,9 @@ Always wanted to take DUT21 home, but Larry won't let you? Here, you'll find all
 ![](photos/pretty_image_1.png "Wow what an amazing car")
 ![](photos/pretty_image_7.png "Wow what an amazing car")
 ![](photos/pretty_image_8.png "Wow what an amazing car")
-![](photos/pretty_image_4.jpg "Wow what an amazing car")
-![](photos/pretty_image_5.jpg "Wow what an amazing car")
-![](photos/pretty_image_6.jpg "Wow what an amazing car")
+![](photos/pretty_image_4.png "Wow what an amazing car")
+![](photos/pretty_image_5.png "Wow what an amazing car")
+![](photos/pretty_image_6.png "Wow what an amazing car")
 
 
 
@@ -83,6 +83,7 @@ Just glue it with some super glue, but be smart with the order. Normal glueing t
 - [ ] Maybe add some tiny recesses in the chassis where stuff needs to be glued? Can help with adhesion and lining stuff up
 - [ ] Add cables and cooling tubes. Thinking of using colored/painted filament, but that would mean 1.75mm always, which is a bit thicc.
 - [ ] Play around with the size of the suspension triangles. Maybe thinner suspension rods?
+- [ ] Add some more fillets to strengten parts.
 
 ## Get in touch
 If you've got any questions, hit me up on Slack, I should probably see messages there. If not, my phone number can be found on there as well.
