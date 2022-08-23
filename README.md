@@ -1,6 +1,6 @@
 
 ## What's this?
-Always wanted to take DUT21 home, but Larry won't let you? Here, you'll find all the documents needed to print your very own **1:10 scale model DUT21 car**! How exciting. You better make sure you like screaming when it breaks, cause this isn't perfect in the slightest. Buckle up if you're brave.
+Always wanted to take DUT21 home, but Larry won't let you? Here, you'll find all the files needed to print your very own **1:10 scale model DUT21 car**! How exciting. You better make sure you like screaming when it breaks, cause this isn't perfect in the slightest. Buckle up if you're brave.
 
 ### Pretty pictures
 ![](photos/pretty_image_3.png "Wow what an amazing car")
@@ -31,14 +31,14 @@ Anyway, turns out that our lovely aero department had already worked their Catia
 Exporting all those as a `.step` file turned out to be a good choice, as you can actually easily edit those in any other software. Some press pulling in Fusion to bulk up some of the flimsy aero and suspension rods later, I'm happy to report I've got something that prints reasonably well, resulting in a bulk of PLA on my desk which is vaguely reminiscent of the actual car. 
 
 ## Make your own!
-If you want your own, expect about ~30 hours of printing time and ~300g of filament, depending on your settings. Next assembly will take quite a few hours as well, especially doing it for the first time (pro tip: drop it to get more practice!). If you want to paint it, add a few hours more and you're done!
+If you want your own, expect about ~30 hours of printing time and ~300g of filament, depending on your settings. Next, assembly will take quite a few hours as well, especially doing it for the first time (pro tip: drop it to get more practice!). If you want to paint it, add a few hours more and you're done!
 
 ### The files
 The car is split up into a whole bunch of different prints to fit onto my Ender 3 pro. If you've got a big printer, I dare you to print it all in one go, but if not, splitting it up seems pretty smart, so that print orientations can be chosen to be not-entirely-dumb.
 
 ![](photos/print_orientation.png "Wow what an amazing car")
 
-You'll find all the `.stl` files of the parts in this repo, as well as the fusion model in case you wanna work on that to fix everything I've done wrong. I've included a tiny stand for the right ride height (and to take the weight of the suspension) and the CFD Percy. 
+You'll find all the `.stl` files of the parts in this repo, as well as the fusion model in case you wanna work on that to fix everything I've done wrong. I've included a tiny stand for the right ride height (and to take the weight off the suspension) and the CFD Percy. 
 
 
 
@@ -77,7 +77,8 @@ Just glue it with some super glue, but be smart with the order. Normal glueing t
 
 
 ## Things to fix still
-- [ ] Decals! Gonna get all the sponsors on it to make it look all nice and pretty. For the blue on white, clear waterslide decals seem to work well. I'm still looking for suggestions on how to make the white decals. HMU if you got ideas.
+- [x] Decals! Gonna get all the sponsors on it to make it look all nice and pretty. For the blue on white, clear waterslide decals seem to work well. I'm still looking for suggestions on how to make the white decals. HMU if you got ideas.
+*Update 23/8/2022: I've uploaded the [decals](decals.png) which I've sent to be printed at https://www.printmetwit.nl/ . Will update once I've seen the results.*
 - [ ] Fix that one annoying wing element on the front wing which is way too flimsy who even designed that thing.
 - [ ] Fix the mounting of the cooling radiators. It just doesn't wanna glue right now
 - [ ] Maybe add some tiny recesses in the chassis where stuff needs to be glued? Can help with adhesion and lining stuff up
@@ -88,7 +89,7 @@ Just glue it with some super glue, but be smart with the order. Normal glueing t
 ## Get in touch
 If you've got any questions, hit me up on Slack, I should probably see messages there. If not, my phone number can be found on there as well.
 
-If you've made this, please please please send me photos, I would love for a lot of tiny DUT21's to exist.
+If you've made this, please please please send me photos, I would love for a lot of tiny DUT21's to exist. I still got loads of the right spraypaints left, so i can lend you some as well.
 
 
 ### License
