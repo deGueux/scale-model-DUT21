@@ -79,12 +79,18 @@ Just glue it with some super glue, but be smart with the order. Normal glueing t
 ## Things to fix still
 - [x] Decals! Gonna get all the sponsors on it to make it look all nice and pretty. For the blue on white, clear waterslide decals seem to work well. I'm still looking for suggestions on how to make the white decals. HMU if you got ideas.
 *Update 23/8/2022: I've uploaded the [decals](decals.png) which I've sent to be printed at https://www.printmetwit.nl/ . Will update once I've seen the results.*
-- [ ] Fix that one annoying wing element on the front wing which is way too flimsy who even designed that thing.
+- [ ] Turns out I forgot the decals on the FW and SD, and the E85 on the top of the car, so still need to add those.
+- [x] Fix that one annoying wing element on the front wing which is way too flimsy who even designed that thing.
 - [ ] Fix the mounting of the cooling radiators. It just doesn't wanna glue right now
 - [ ] Maybe add some tiny recesses in the chassis where stuff needs to be glued? Can help with adhesion and lining stuff up
 - [ ] Add cables and cooling tubes. Thinking of using colored/painted filament, but that would mean 1.75mm always, which is a bit thicc.
 - [ ] Play around with the size of the suspension triangles. Maybe thinner suspension rods?
-- [ ] Add some more fillets to strengten parts.
+- [x] Add some more fillets to strengten parts.
+- [x] Add the foam to main hoop.
+- [x] Add headrest.
+- [ ] Stuff like HVD, switches etc.
+- [x] Apparently the midwing is wrong, so need to update that.
+- [ ] I believe the calipers in the rear are different from the front, which is not reflected in the model right now.
 
 ## Get in touch
 If you've got any questions, hit me up on Slack, I should probably see messages there. If not, my phone number can be found on there as well.
